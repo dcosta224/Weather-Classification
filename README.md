@@ -1,6 +1,6 @@
 # 207 Final Project: Weather Image Classification
 
-This repo hosts the code for our group's DATASCI 207 Final Project.
+This repo hosts the code for our group's DATASCI 207 Final Project. See bottom of page for relevant files.
 
 ## Members
 - Daniel Costa
